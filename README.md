@@ -1,4 +1,3 @@
-### About Me
 ![JavaScript](https://badge42.vercel.app/api/v2/cl60uslo9000609mgufzwqfyj/stats?cursusId=21&coalitionId=110)
 <br />
 ### Text Editor
