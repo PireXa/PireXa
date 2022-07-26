@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white
 <!--
 **PireXa/PireXa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
