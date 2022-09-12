@@ -2,7 +2,7 @@
 ### Text Editor
 ![JavaScript](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ### Learning Swedish on
-https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white
+![JavaScript](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 ### Skillset
 ![JavaScript](https://img.shields.io/badge/RocketLeague-ProPlayer-blue)
 <br />
