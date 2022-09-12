@@ -6,4 +6,4 @@
 ### Skillset
 ![JavaScript](https://img.shields.io/badge/RocketLeague-ProPlayer-blue)
 <br />
-![JavaScript](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.84-brightgreen)
+![JavaScript](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.84-brightgreen) https://www.youtube.com/watch?v=8fHunYoaVs8
