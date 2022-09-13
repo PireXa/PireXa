@@ -18,7 +18,7 @@
 <br />
 ![fde-albe mintlak_score](https://img.shields.io/badge/Minitalk-100-brightgreen?style=flat-square)
 ### Exams from 42
-![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam Rank 02-100-brightgreen?style=flat-square)
+![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_02-100-brightgreen?style=flat-square)
 ### Learning Svenska on
 ![C](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 ### Skillset
