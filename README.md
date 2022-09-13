@@ -4,6 +4,6 @@
 ### Learning Svenska on
 ![JavaScript](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 ### Skillset
-![JavaScript](https://img.shields.io/badge/RocketLeague-ProPlayer-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/RocketLeague-ProPlayer-blue?style=flat-square)
 <br />
-[![JavaScript](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.84-brightgreen?style=for-the-badge)](https://www.youtube.com/watch?v=8fHunYoaVs8)
+[![JavaScript](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.84-brightgreen?style=flat-square)](https://www.youtube.com/watch?v=8fHunYoaVs8)
