@@ -7,9 +7,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ---
 ### Projects from 42
-![fde-albe libft_score](https://img.shields.io/badge/Libft-125-brightgreen?style=flat-square)
+[![fde-albe libft_score](https://img.shields.io/badge/Libft-125-brightgreen?style=flat-square)](https://github.com/PireXa/42_Libft)
 <br />
-![fde-albe get_next_line_score](https://img.shields.io/badge/get_next_line-125-brightgreen?style=flat-square)
+[![fde-albe get_next_line_score](https://img.shields.io/badge/get_next_line-125-brightgreen?style=flat-square)](https://github.com/PireXa/42_Get_Next_Line)
 <br />
 ![fde-albe ft_printf_score](https://img.shields.io/badge/ft_printf-100-brightgreen?style=flat-square)
 <br />
