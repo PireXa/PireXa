@@ -30,4 +30,4 @@
 ### Skillset
 ![C](https://img.shields.io/badge/RocketLeague-ProPlayer-blue?style=flat-square)
 <br />
-[![C](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.84-brightgreen?style=flat-square)](https://www.youtube.com/watch?v=8fHunYoaVs8)
+[![C](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.30-brightgreen?style=flat-square)](https://www.youtube.com/watch?v=8fHunYoaVs8)
