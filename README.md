@@ -21,11 +21,11 @@
 <br />
 [![fde-albe mintlak_score](https://img.shields.io/badge/Minitalk-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_Minitalk)
 <br />
-[![fde-albe mintlak_score](https://img.shields.io/badge/Minishell-Still in Progress-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
+[![fde-albe minishell_score](https://img.shields.io/badge/Minishell-"Still in Progress"-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
 <br />
-[![fde-albe mintlak_score](https://img.shields.io/badge/Philosophers-Still in Progress-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
+[![fde-albe philosophers_score](https://img.shields.io/badge/Philosophers-"Still in Progress"-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
 <br />
-[![fde-albe mintlak_score](https://img.shields.io/badge/MiniRT-Still in Progress-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
+[![fde-albe minirt_score](https://img.shields.io/badge/MiniRT-"Still in Progress"-orange?style=flat-square)](https://github.com/PireXa/42_Minitalk)
 ---
 ### Exams from 42
 ![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_02-100-brightgreen?style=flat-square)
