@@ -23,7 +23,7 @@
 <br />
 [![fde-albe minishell_score](https://img.shields.io/badge/Minishell-StillinProgress-orange?style=flat-square)](https://github.com/PireXa/42-minishell)
 <br />
-[![fde-albe philosophers_score](https://img.shields.io/badge/Philosophers-StillinProgress-orange?style=flat-square)](https://github.com/PireXa/42_philosophers)
+[![fde-albe philosophers_score](https://img.shields.io/badge/Philosophers-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_philosophers)
 <br />
 [![fde-albe minirt_score](https://img.shields.io/badge/MiniRT-StillinProgress-orange?style=flat-square)](https://github.com/PireXa/42_MiniRT)
 ---
