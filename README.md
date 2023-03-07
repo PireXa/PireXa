@@ -25,7 +25,7 @@
 <br />
 [![fde-albe philosophers_score](https://img.shields.io/badge/Philosophers-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_philosophers)
 <br />
-[![fde-albe minirt_score](https://img.shields.io/badge/MiniRT-StillinProgress-orange?style=flat-square)](https://github.com/PireXa/42_MiniRT)
+[![fde-albe minirt_score](https://img.shields.io/badge/MiniRT-110-brightgreen?style=flat-square)](https://github.com/PireXa/42_MiniRT)
 ---
 ### Exams from 42
 ![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_02-100-brightgreen?style=flat-square)
