@@ -29,7 +29,7 @@
 <br />
 [![fde-albe ft_irc_score](https://img.shields.io/badge/ft_IRC-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_ft_irc)
 <br />
-[![fde-albe Inception_score](https://img.shields.io/badge/ft_Inception-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_Inception)
+[![fde-albe Inception_score](https://img.shields.io/badge/Inception-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_Inception)
 <br />
 ---
 ### Exams from 42
