@@ -30,12 +30,13 @@
 [![fde-albe ft_irc_score](https://img.shields.io/badge/ft_IRC-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_ft_irc)
 <br />
 [![fde-albe Inception_score](https://img.shields.io/badge/Inception-100-brightgreen?style=flat-square)](https://github.com/PireXa/42_Inception)
-<br />
 ---
 ### Exams from 42
 ![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_02-100-brightgreen?style=flat-square)
 <br />
-![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_03-100-brightgreen?style=flat-square)
+![fde-albe exam_rank_03_score](https://img.shields.io/badge/Exam_Rank_03-100-brightgreen?style=flat-square)
+<br />
+![fde-albe exam_rank_04_score](https://img.shields.io/badge/Exam_Rank_04-100-brightgreen?style=flat-square)
 ---
 ### Learning Svenska on
 ![C](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
