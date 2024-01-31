@@ -37,6 +37,10 @@
 ![fde-albe exam_rank_03_score](https://img.shields.io/badge/Exam_Rank_03-100-brightgreen?style=flat-square)
 <br />
 ![fde-albe exam_rank_04_score](https://img.shields.io/badge/Exam_Rank_04-100-brightgreen?style=flat-square)
+<br />
+![fde-albe exam_rank_05_score](https://img.shields.io/badge/Exam_Rank_05-100-brightgreen?style=flat-square)
+<br />
+![fde-albe exam_rank_06_score](https://img.shields.io/badge/Exam_Rank_06-100-brightgreen?style=flat-square)
 ---
 ### Learning Svenska on
 ![C](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
