@@ -52,4 +52,4 @@
 ### Skillset
 ![C](https://img.shields.io/badge/RocketLeague-ProPlayer-blue?style=flat-square)
 <br />
-[![C](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.30-brightgreen?style=flat-square)](https://www.youtube.com/watch?v=8fHunYoaVs8)
+[![C](https://img.shields.io/badge/Rubik%60s%20Cube%20Record-12.30-brightgreen?style=flat-square)](https://www.google.com/imgres?q=rubik%27s%20cube&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81XW83q04fL._AC_SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.ubuy.com.pt%2Fen%2Fproduct%2F7OE2INZRS-rubik-s-cube-3x3-magnetic-speed-cube-super-fast-problem-solving-challenging-retro-fidget-toy-travel-brain-teaser-for-adults-amp-kids-ages-8&docid=UAIo0C75TZUavM&tbnid=YS6kbWsYAOqvsM&vet=12ahUKEwjfwcGOtb-GAxXZTaQEHYxeBKEQM3oECBgQAA..i&w=1500&h=1422&hcb=2&itg=1&ved=2ahUKEwjfwcGOtb-GAxXZTaQEHYxeBKEQM3oECBgQAA)
