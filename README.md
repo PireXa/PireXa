@@ -1,5 +1,3 @@
-![fde-albe's 42 stats](https://badge42.vercel.app/api/v2/cl60uslo9000609mgufzwqfyj/stats?cursusId=21&coalitionId=110)
----
 ### Text Editor
 ![C](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ---
