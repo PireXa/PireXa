@@ -5,6 +5,9 @@
 ---
 ### Currently Learning
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
+![C](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ---
 ### Projects from 42
 [![fde-albe libft_score](https://img.shields.io/badge/Libft-125-brightgreen?style=flat-square)](https://github.com/PireXa/42_Libft)
