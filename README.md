@@ -32,6 +32,10 @@
 ![fde-albe NetPractice_score](https://img.shields.io/badge/NetPractice-100-brightgreen?style=flat-square)
 <br />
 ![fde-albe ft_transcendence_score](https://img.shields.io/badge/ft_transcendence-100-brightgreen?style=flat-square)
+<br />
+![fde-albe scop_score](https://img.shields.io/badge/scop-121-brightgreen?style=flat-square)
+<br />
+![fde-albe dslr_score](https://img.shields.io/badge/dslr-115-brightgreen?style=flat-square)
 ---
 ### Exams from 42
 ![fde-albe exam_rank_02_score](https://img.shields.io/badge/Exam_Rank_02-100-brightgreen?style=flat-square)
